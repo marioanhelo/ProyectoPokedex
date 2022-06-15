@@ -1,0 +1,24 @@
+{
+  "name": "proyectopokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioanhelo/ProyectoPokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioanhelo/ProyectoPokedex/issues"
+  },
+  "homepage": "https://github.com/marioanhelo/ProyectoPokedex#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
